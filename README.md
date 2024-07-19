@@ -10,17 +10,7 @@ Sou um programador web apaixonado por tecnologia e design. Minhas habilidades in
 
 - React.js: Quero me aprofundar nesse framework para construir aplicações mais robustas.
 
-### 💞️ Estou interessado em colaborar em:
-
-- Projetos open source: Adoro contribuir para a comunidade e aprender com outros desenvolvedores.
-
 ### 📫 Como me encontrar:
 
 - LinkedIn: Dorivaldo Lucuamico Pinto
 - Instagram: @realdolpin
-
-### ⚡ Curiosidade:
-
-- Sou um entusiasta de jogos de tabuleiro, videogames e desportos coletivos(Basket, football, handball...)!
-
-Fique à vontade para explorar meus repositórios e entrar em contato. Vamos construir coisas incríveis juntos! 😄
