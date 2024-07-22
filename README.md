@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPB, campus Esperança.
+  Atualmente cursando Engenharia informática no ISPTEC (Instituto superior de tecnologias e ciências).
 </p>
 
 <p>
