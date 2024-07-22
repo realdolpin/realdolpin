@@ -100,7 +100,7 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dário Matias GitHub stats." />
   <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=react" alt="Dário Matias GitHub stats." />
 </div>
 
