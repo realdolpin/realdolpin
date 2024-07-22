@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  Trabalho com desenvolvimento mobile com Flutter, possuindo conhecimentos e habilidades em desevolvimento FrontEnd Web e Backend, explorando e criando projetos em diversas áreas para expandir minha base de saberes e experiências.
+  Possuo conhecimentos e habilidades em desevolvimento FrontEnd Web e Backend, explorando e criando projetos em diversas áreas para expandir minha base de saberes e experiências.
 </p>
 
 <p>
@@ -98,8 +98,8 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dário Matias GitHub stats." />
-  <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=react" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dorivaldo Pinto GitHub stats." />
+  <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=react" alt="Dorivaldo Pinto GitHub stats." />
 </div>
 
 <br/>
@@ -111,17 +111,14 @@
 </br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dariomatias-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucuamicopinto777/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/dariomatias_dev/?theme=dark" target="_blank">
+  <a href="https://www.instagram.com/realdolpin/?theme=dark" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/5583986404371">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </div>
 
 <br/>
@@ -132,7 +129,7 @@
     <b>Contador de visitantes</b>
   </p>
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{dariomatias-dev}/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/{realdolpin}/count.svg" />
   </p>
 </div>
 
