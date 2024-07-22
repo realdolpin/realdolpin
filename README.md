@@ -1,6 +1,4 @@
-
-<img width=10% src="[https://happy05dz.tumblr.com/image/164289564000](https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h1>
   Olá! Eu sou Dorivaldo Pinto
 </h1>
