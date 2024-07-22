@@ -1,5 +1,5 @@
 
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a)"/>
+<img width=10% src="[https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a)"/>
 
 <h1>
   Olá! Eu sou Dorivaldo Pinto
