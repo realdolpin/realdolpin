@@ -1,9 +1,8 @@
-## 👋 Olá, sou o @dolpin!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h1>
-  Olá! Eu sou Dário Matias
+  Olá! Eu sou Dorivaldo Pinto
 </h1>
 
 <p>
@@ -32,7 +31,7 @@
   <img
     width="49%"
     height="190px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dariomatias-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=realdolpin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="Dário Matias GitHub stats."
   />
   
