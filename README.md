@@ -35,7 +35,7 @@
     alt="Dário Matias GitHub stats."
   />
   
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=dariomatias-dev&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=realdolpin&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Dário Matias GitHub stats." />
 </div>
 
 <br/>
@@ -100,14 +100,14 @@
 <br/>
 
 <div align="center">
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariomatias-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dário Matias GitHub stats." />
-  <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dariomatias-dev&theme=react" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=react" alt="Dário Matias GitHub stats." />
 </div>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dariomatias-dev&hide_border=true&theme=react-dark" alt="Github activity graph" />
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dariomatias-dev&theme=react" alt="Github activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=realdolpin&hide_border=true&theme=react-dark" alt="Github activity graph" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realdolpin&theme=react" alt="Github activity graph" />
 
 </br>
 </br>
