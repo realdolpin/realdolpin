@@ -1,125 +1,131 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1>
- Hello! Welcome to my Github Profile
-</h1>
 
-<p>
-  Possuo conhecimentos e habilidades em desevolvimento FrontEnd Web e Backend, explorando e criando projetos em diversas áreas para expandir minha base de saberes e experiências.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" />
+
+<h1 align="center">Hello! Welcome to my GitHub Profile 👋</h1>
+
+<h3 align="center">Dorivaldo Pinto | Software Developer</h3>
+
+<p align="center">
+  Estudante de Engenharia Informática no ISPTEC.
 </p>
 
-<p>
-  Atualmente cursando Engenharia informática no ISPTEC (Instituto superior de tecnologias e ciências).
+<p align="center">
+  Tenho interesse no desenvolvimento de software, com foco em
+  tecnologias Front-end e Back-end. Gosto de explorar novas
+  ferramentas, desenvolver projectos e aprofundar os meus
+  conhecimentos na área da programação.
 </p>
 
-<p>
-  Sinta-se à vontade para explorar meus repositórios e usá-los nos seus estudos, e entrar em contato, seja por ideias ou contribuições.
+<p align="center">
+  Actualmente, procuro desenvolver as minhas competências
+  técnicas, fortalecer a minha lógica de programação e
+  transformar ideias em soluções através da tecnologia.
 </p>
 
-<p>
-  Estou aberto a novas oportunidades de aprendizado, crescimento e colaboração.
+<p align="center">
+  Sinta-se à vontade para explorar os meus repositórios,
+  acompanhar os meus projectos e contribuir com sugestões.
 </p>
 
-<br/>
+---
 
-</hr>
-
-<br/>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img
-    width="49%"
-    height="190px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=realdolpin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="Dário Matias GitHub stats."
-  />
-  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=realdolpin&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Dorivaldo Pinto GitHub stats." />
+  <img width="49%" height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=realdolpin&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Statistics" />
+
+  <img width="49%" height="180px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=realdolpin&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak" />
 </div>
 
 <br/>
 
-### Minhas habilidades
+<h2>💻 Technical Skills</h2>
 
-#### Linguagens:
+<h3>Languages</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-#### Bibliotecas:
+<h3>Libraries & Frameworks</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
-#### Frameworks:
+<h3>Databases</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-#### Banco de Dados:
+<h3>Tools & Technologies</h3>
 
 <div>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<div>
-
-#### Ferramentas:
-
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<div>
-
-#### Outros:
-
-<div>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 <br/>
-<br/>
-<br/>
+
+<h2 align="center">📚 Most Used Languages</h2>
 
 <div align="center">
-  <img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Dorivaldo Pinto GitHub stats." />
-  <img width="49%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=react" alt="Dorivaldo Pinto GitHub stats." />
+  <img width="49%" height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages" />
+
+  <img width="49%" height="180px"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=tokyonight"
+    alt="Most Used Languages by Commits" />
 </div>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=realdolpin&hide_border=true&theme=react-dark" alt="Github activity graph" />
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realdolpin&theme=react" alt="Github activity graph" />
+<h2 align="center">📈 Contribution Activity</h2>
 
-</br>
-</br>
+<img width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=realdolpin&theme=tokyo-night&hide_border=true"
+  alt="GitHub Contribution Activity" />
+
+<br/>
+
+<img width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realdolpin&theme=tokyonight"
+  alt="GitHub Profile Summary" />
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucuamicopinto777/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.instagram.com/realdolpin/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://www.instagram.com/realdolpin/?theme=dark" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
 </div>
 
 <br/>
-<br/>
+
+<h3 align="center">👀 Visitor Counter</h3>
 
 <div align="center">
-  <p align="centre">
-    <b>Contador de visitantes</b>
-  </p>
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{realdolpin}/count.svg" />
-  </p>
+  <img src="https://profile-counter.glitch.me/realdolpin/count.svg" alt="Profile Visitor Counter" />
 </div>
 
 <br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
