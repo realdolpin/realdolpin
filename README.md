@@ -114,11 +114,7 @@ Here are some areas and projects I enjoy exploring:
 
 ## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/realdolpin">
-    <img src="https://img.shields.io/badge/GitHub-realdolpin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/realdolpin?tab=repositories">
