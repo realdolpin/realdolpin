@@ -136,8 +136,8 @@ Here are some areas and projects I enjoy exploring:
 
 <p align="center">
 
-  <a href="https://github.com/realdolpin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/dolpln/">
+    <img src="https://img.shields.io/badge/Linkedin-181717?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
 
   <a href="https://www.instagram.com/realdolpin/">
