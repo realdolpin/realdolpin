@@ -23,18 +23,18 @@
 <!--                 ABOUT ME                  -->
 <!-- ========================================= -->
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Dorivaldo Pinto**, a Computer Engineering student at **ISPTEC**, passionate about technology and software development.
 
 I enjoy exploring new technologies, solving problems through programming and building projects that help me improve my technical and logical thinking.
 
-- 🎓 Computer Engineering student at ISPTEC.
-- 💻 Interested in Front-end and Back-end Development.
-- 🚀 Working towards becoming a Full-Stack Developer.
-- 🧠 Constantly improving my programming logic and problem-solving skills.
-- 🌱 Currently exploring React and modern web development.
-- 🤝 Open to learning, collaboration and new opportunities.
+- Computer Engineering student at ISPTEC.
+- Interested in Front-end and Back-end Development.
+- Working towards becoming a Full-Stack Developer.
+- Constantly improving my programming logic and problem-solving skills.
+- Currently exploring React and modern web development.
+- Open to learning, collaboration and new opportunities.
 
 ---
 
@@ -42,7 +42,7 @@ I enjoy exploring new technologies, solving problems through programming and bui
 <!--               TECH STACK                  -->
 <!-- ========================================= -->
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 
@@ -74,15 +74,15 @@ I enjoy exploring new technologies, solving problems through programming and bui
 <!--              FEATURED PROJECTS            -->
 <!-- ========================================= -->
 
-## 🚀 Featured Projects
+##Featured Projects
 
 Here are some areas and projects I enjoy exploring:
 
 | Project | Description |
 |---|---|
-| 🌱 ECANA | Environmental awareness and education platform. |
-| 💳 Digital Wallet Simulator | Academic project focused on simulating a digital wallet. |
-| 🌐 Web Development | Personal projects focused on web development and programming. |
+| ECANA | Environmental awareness and education platform. |
+| Digital Wallet Simulator | Academic project focused on simulating a digital wallet. |
+| Web Development | Personal projects focused on web development and programming. |
 
 <!--
   IMPORTANT:
@@ -97,7 +97,7 @@ Here are some areas and projects I enjoy exploring:
 <!--              CURRENT FOCUS                -->
 <!-- ========================================= -->
 
-## 📚 Currently Learning
+## Currently Learning
 
 - React.js
 - Advanced JavaScript
@@ -112,7 +112,7 @@ Here are some areas and projects I enjoy exploring:
 <!--                GITHUB                     -->
 <!-- ========================================= -->
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/realdolpin">
@@ -132,7 +132,7 @@ Here are some areas and projects I enjoy exploring:
 <!--               CONTACT                     -->
 <!-- ========================================= -->
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -154,7 +154,7 @@ Here are some areas and projects I enjoy exploring:
 
 <div align="center">
 
-  <h3>Thanks for visiting my profile! 🚀</h3>
+  <h3>Thanks for visiting my profile! ❤️</h3>
 
   <p>
     <i>"Great things are built one line of code at a time."</i>
