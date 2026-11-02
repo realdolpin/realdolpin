@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <h1>
-  Olá! Welcome to my Github Profile
+ Hello! Welcome to my Github Profile
 </h1>
 
 <p>
@@ -33,7 +33,7 @@
     alt="Dário Matias GitHub stats."
   />
   
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=realdolpin&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Dário Matias GitHub stats." />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=realdolpin&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="Dorivaldo Pinto GitHub stats." />
 </div>
 
 <br/>
