@@ -47,7 +47,7 @@ I enjoy exploring new technologies, solving problems through programming and bui
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=php,js,java,c" alt="Programming Languages" />
 </p>
 
 ### Frameworks & Libraries
@@ -65,7 +65,7 @@ I enjoy exploring new technologies, solving problems through programming and bui
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
 </p>
 
 ---
