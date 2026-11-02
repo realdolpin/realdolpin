@@ -1,131 +1,165 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" />
+<!-- ========================================= -->
+<!--              HEADER / BANNER              -->
+<!-- ========================================= -->
 
-<h1 align="center">Hello! Welcome to my GitHub Profile 👋</h1>
+<div align="center">
 
-<h3 align="center">Dorivaldo Pinto | Software Developer</h3>
+  <img width="100%" src="./assets/coding-banner.gif" alt="Animated Programming Banner" />
 
-<p align="center">
-  Estudante de Engenharia Informática no ISPTEC.
+  <br/>
+
+  <h1>Hi, I'm Dorivaldo Pinto 👋</h1>
+
+  <h3>Computer Engineering Student | Aspiring Full-Stack Developer</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFBF&center=true&vCenter=true&width=650&lines=Passionate+about+Software+Development;Building+my+skills+one+project+at+a+time;Turning+ideas+into+digital+solutions;Always+learning%2C+always+building." alt="Typing Animation" />
+
+</div>
+
+---
+
+<!-- ========================================= -->
+<!--                 ABOUT ME                  -->
+<!-- ========================================= -->
+
+## 👨‍💻 About Me
+
+I'm **Dorivaldo Pinto**, a Computer Engineering student at **ISPTEC**, passionate about technology and software development.
+
+I enjoy exploring new technologies, solving problems through programming and building projects that help me improve my technical and logical thinking.
+
+- 🎓 Computer Engineering student at ISPTEC.
+- 💻 Interested in Front-end and Back-end Development.
+- 🚀 Working towards becoming a Full-Stack Developer.
+- 🧠 Constantly improving my programming logic and problem-solving skills.
+- 🌱 Currently exploring React and modern web development.
+- 🤝 Open to learning, collaboration and new opportunities.
+
+---
+
+<!-- ========================================= -->
+<!--               TECH STACK                  -->
+<!-- ========================================= -->
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Programming Languages" />
 </p>
 
-<p align="center">
-  Tenho interesse no desenvolvimento de software, com foco em
-  tecnologias Front-end e Back-end. Gosto de explorar novas
-  ferramentas, desenvolver projectos e aprofundar os meus
-  conhecimentos na área da programação.
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,react" alt="Frameworks and Libraries" />
 </p>
 
-<p align="center">
-  Actualmente, procuro desenvolver as minhas competências
-  técnicas, fortalecer a minha lógica de programação e
-  transformar ideias em soluções através da tecnologia.
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 </p>
 
-<p align="center">
-  Sinta-se à vontade para explorar os meus repositórios,
-  acompanhar os meus projectos e contribuir com sugestões.
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Development Tools" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- ========================================= -->
+<!--              FEATURED PROJECTS            -->
+<!-- ========================================= -->
 
-<div align="center">
-  <img width="49%" height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=realdolpin&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-    alt="GitHub Statistics" />
+## 🚀 Featured Projects
 
-  <img width="49%" height="180px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=realdolpin&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak" />
-</div>
+Here are some areas and projects I enjoy exploring:
 
-<br/>
+| Project | Description |
+|---|---|
+| 🌱 ECANA | Environmental awareness and education platform. |
+| 💳 Digital Wallet Simulator | Academic project focused on simulating a digital wallet. |
+| 🌐 Web Development | Personal projects focused on web development and programming. |
 
-<h2>💻 Technical Skills</h2>
-
-<h3>Languages</h3>
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</div>
-
-<h3>Libraries & Frameworks</h3>
-
-<div>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</div>
-
-<h3>Databases</h3>
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-<h3>Tools & Technologies</h3>
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
-<br/>
-
-<h2 align="center">📚 Most Used Languages</h2>
-
-<div align="center">
-  <img width="49%" height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdolpin&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages" />
-
-  <img width="49%" height="180px"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=tokyonight"
-    alt="Most Used Languages by Commits" />
-</div>
-
-<br/>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<img width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=realdolpin&theme=tokyo-night&hide_border=true"
-  alt="GitHub Contribution Activity" />
-
-<br/>
-
-<img width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realdolpin&theme=tokyonight"
-  alt="GitHub Profile Summary" />
+<!--
+  IMPORTANT:
+  Replace the project names above with links to your actual repositories.
+  Example:
+  [ECANA](https://github.com/realdolpin/REPOSITORY_NAME)
+-->
 
 ---
 
-<h2 align="center">🌐 Let's Connect</h2>
+<!-- ========================================= -->
+<!--              CURRENT FOCUS                -->
+<!-- ========================================= -->
 
-<div align="center">
+## 📚 Currently Learning
 
-  <a href="https://www.instagram.com/realdolpin/" target="_blank" rel="noopener noreferrer">
+- React.js
+- Advanced JavaScript
+- PHP & MySQL
+- Software Engineering
+- Data Structures and Algorithms
+- Full-Stack Development
+
+---
+
+<!-- ========================================= -->
+<!--                GITHUB                     -->
+<!-- ========================================= -->
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/realdolpin">
+    <img src="https://img.shields.io/badge/GitHub-realdolpin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/realdolpin?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-00BFBF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+---
+
+<!-- ========================================= -->
+<!--               CONTACT                     -->
+<!-- ========================================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://github.com/realdolpin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.instagram.com/realdolpin/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-</div>
+</p>
 
-<br/>
+---
 
-<h3 align="center">👀 Visitor Counter</h3>
+<!-- ========================================= -->
+<!--                  FOOTER                   -->
+<!-- ========================================= -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/realdolpin/count.svg" alt="Profile Visitor Counter" />
+
+  <h3>Thanks for visiting my profile! 🚀</h3>
+
+  <p>
+    <i>"Great things are built one line of code at a time."</i>
+  </p>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=footer" />
+
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
