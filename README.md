@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm **Dorivaldo Pinto**, a Computer Engineering student at **ISPTEC**, passionate about technology and software development.
+I'm a Computer Engineering student at **ISPTEC**, passionate about technology and software development.
 
 I enjoy exploring new technologies, solving problems through programming and building projects that help me improve my technical and logical thinking.
 
