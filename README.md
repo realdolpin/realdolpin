@@ -98,7 +98,7 @@ Here are some areas and projects I enjoy exploring:
 
 <!-- ========================================= -->
 <!--              CURRENT FOCUS                -->
-<!-- ========================================= -->
+<!-- ========================================= 
 
 ## Currently Learning
 
@@ -107,7 +107,7 @@ Here are some areas and projects I enjoy exploring:
 - PHP & MySQL
 - Software Engineering
 - Data Structures and Algorithms
-- Full-Stack Development
+- Full-Stack Development-->
 
 ---
 
@@ -115,9 +115,15 @@ Here are some areas and projects I enjoy exploring:
 <!--                GITHUB                     -->
 <!-- ========================================= -->
 
+
 ## GitHub Activity
 
-
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=tokyonight"
+    alt="Most Used Languages by Commits"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/realdolpin?tab=repositories">
