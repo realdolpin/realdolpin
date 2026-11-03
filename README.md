@@ -64,8 +64,11 @@ I enjoy exploring new technologies, solving problems through programming and bui
 
 ### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git, GitHub and VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="Apache NetBeans" />
+  <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="48" height="48" alt="XAMPP" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL Workbench" />
 </p>
 
 ---
