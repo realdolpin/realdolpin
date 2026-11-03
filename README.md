@@ -119,15 +119,20 @@ Here are some areas and projects I enjoy exploring:
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=realdolpin&theme=tokyonight"
-    alt="Most Used Languages by Commits"
-  />
+  <a href="https://github.com/realdolpin">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=realdolpin&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5"
+      alt="Most Used Languages Across GitHub Repositories"
+    />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/realdolpin?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-00BFBF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img
+      src="https://img.shields.io/badge/Explore-My_Repositories-00BFBF?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore My Repositories"
+    />
   </a>
 </p>
 
