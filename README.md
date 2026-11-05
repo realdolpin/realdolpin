@@ -56,13 +56,13 @@ I enjoy exploring new technologies, solving problems through programming and bui
   <img src="https://skillicons.dev/icons?i=bootstrap,react" alt="Frameworks and Libraries" />
 </p>
 
-### Databases
+<!--### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-</p>
+</p>-->
 
-### Development Tools
+### Development Tools 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git, GitHub and VS Code" />
