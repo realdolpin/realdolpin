@@ -74,7 +74,7 @@ I enjoy exploring new technologies, solving problems through programming and bui
 ---
 
 <!-- ========================================= -->
-<!--              FEATURED PROJEC            -->
+<!--              FEATURED PROJECTS           -->
 <!-- ========================================= -->
 
 ##Featured Projects
